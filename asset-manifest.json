@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/kharkiv_test/static/css/main.ea355e38.chunk.css",
+    "main.js": "/kharkiv_test/static/js/main.b77fd3a1.chunk.js",
+    "main.js.map": "/kharkiv_test/static/js/main.b77fd3a1.chunk.js.map",
+    "runtime~main.js": "/kharkiv_test/static/js/runtime~main.eb4f7a29.js",
+    "runtime~main.js.map": "/kharkiv_test/static/js/runtime~main.eb4f7a29.js.map",
+    "static/js/2.f718ff77.chunk.js": "/kharkiv_test/static/js/2.f718ff77.chunk.js",
+    "static/js/2.f718ff77.chunk.js.map": "/kharkiv_test/static/js/2.f718ff77.chunk.js.map",
+    "index.html": "/kharkiv_test/index.html",
+    "precache-manifest.41fd863e9bf36b0b30a0d60416efd5b6.js": "/kharkiv_test/precache-manifest.41fd863e9bf36b0b30a0d60416efd5b6.js",
+    "service-worker.js": "/kharkiv_test/service-worker.js",
+    "static/css/main.ea355e38.chunk.css.map": "/kharkiv_test/static/css/main.ea355e38.chunk.css.map",
+    "static/media/App.scss": "/kharkiv_test/static/media/jared-sluyter-342881.37ed1e9a.png",
+    "static/media/join-our-team.png": "/kharkiv_test/static/media/join-our-team.4a542af0.png",
+    "static/media/mother-and-child.png": "/kharkiv_test/static/media/mother-and-child.7f5f65ed.png",
+    "static/media/people_background.png": "/kharkiv_test/static/media/people_background.53734906.png"
+  }
+}
